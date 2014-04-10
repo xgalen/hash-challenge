@@ -1,0 +1,10 @@
+{
+    "name": "trello-challenge",
+    "version": "0.0.1",
+    "scripts": {
+        "test": "make test"
+    },
+    "dependencies": {
+        "mocha": "1.18.x"
+    }
+}
